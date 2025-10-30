@@ -24,7 +24,7 @@
 
 ## 🚩 Notable Projects
 
-- 🔗 [Style-Fit](#) — Your all-in-one shopping companion.
+- 🔗 [Style-Fit](https://github.com/praveenguptaa/Style-Fit) — Your all-in-one shopping companion.
 - 🔗 [SmartTrip](#) — Plan smarter, travel better.
 - 🔗 [ChatUp](#) — Real-time chat application for seamless communication.
 
